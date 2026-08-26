@@ -1,6 +1,6 @@
 # KIDE Toolchain
 
-Este repositório contém o conjunto de ferramentas e recursos essenciais (Toolchain) para o projeto **KIDE**. Aqui você encontrará binários, bibliotecas e imagens de sistema otimizados para ambientes de desenvolvimento Android, Linux e Termux.
+Este repositório contém o conjunto de ferramentas e recursos essenciais (Toolchain) para o projeto **KIDE**. Aqui você encontrará binários, bibliotecas e imagens de sistema otimizados para o ambiente de desenvolvimento Android.
 
 ## 🚀 Estrutura do Repositório
 
