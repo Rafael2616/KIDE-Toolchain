@@ -6,11 +6,11 @@ O PRoot é uma implementação de `chroot`, `mount --bind` e `binfmt_misc` que f
 
 Os pacotes oficiais podem ser baixados do repositório Termux:
 
-*   **Repositório Principal:** [Termux Main Pool](https://packages-cf.termux.dev/apt/termux-main/pool/main/p/proot/)
+*   **Repositório Principal:** [Termux PRoot](https://packages-cf.termux.dev/apt/termux-main/pool/main/p/proot/)
 
 ## 📚 Dependências e Bibliotecas
 
-Para que o PRoot funcione corretamente no Android/Termux, as seguintes bibliotecas são necessárias:
+Para que o PRoot funcione corretamente no Android, as seguintes bibliotecas são necessárias:
 
 | Biblioteca | Finalidade | Link de Download |
 | :--- | :--- | :--- |
