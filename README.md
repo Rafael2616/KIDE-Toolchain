@@ -2,16 +2,16 @@
 
 Este repositório contém o conjunto de ferramentas e recursos essenciais (Toolchain) para o projeto **KIDE**. Aqui você encontrará binários, bibliotecas e imagens de sistema otimizados para o ambiente de desenvolvimento Android.
 
-## 🚀 Estrutura do Repositório
+## 📦 Downloads & Releases
 
-O repositório está organizado da seguinte forma:
+Os binários e pacotes pré-compilados do KIDE Toolchain estão hospedados nas **Releases** do GitHub para manter o repositório leve.
 
-*   **`v1.0/`**: Contém os binários e arquivos compilados prontos para uso.
-    *   `jdk-17.0.20/`: Java Development Kit v17.
-    *   `jdk-21.0.12/`: Java Development Kit v21.
-    *   `proot-5.1.107.92/`: Utilitário PRoot para emulação de chroot.
-    *   `rootfs-ubuntu-22.04.5/`: Imagem base do Ubuntu para o ambiente KIDE.
-*   **`docs/`**: Documentação detalhada sobre a origem dos recursos e como atualizá-los.
+Você pode baixar os arquivos das versões nos links abaixo:
+
+* 🏷️ **[Release v1.0](https://github.com/Rafael2616/KIDE-Toolchain/releases/tag/v1.0)** - Contém os binários iniciais do JDK 17, JDK 21, PRoot e imagem base do Ubuntu RootFS.
+* 🏷️ **[Release v2.0](https://github.com/Rafael2616/KIDE-Toolchain/releases/tag/v2.0)** - Contém atualizações e novos componentes como o AAPT2 e dependências adicionais.
+
+📌 Veja todas as versões e ativos na [Página de Releases](https://github.com/Rafael2616/KIDE-Toolchain/releases).
 
 ## 📖 Documentação
 
@@ -26,7 +26,7 @@ Para mais detalhes sobre cada componente, consulte os guias abaixo:
 
 ## 🛠️ Como usar
 
-Este toolchain foi projetado para ser integrado ao ambiente KIDE. Os binários na pasta `v1.0` são compatíveis com arquiteturas `arm64-v8a`, `armeabi-v7a` e `x86_64`.
+Este toolchain foi projetado para ser integrado ao ambiente KIDE. Os binários fornecidos nas releases são compatíveis com as arquiteturas `arm64-v8a`, `armeabi-v7a` e `x86_64`.
 
 ---
 *KIDE Toolchain - Desenvolvido para potencializar seu ambiente de desenvolvimento.*
