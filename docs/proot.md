@@ -6,7 +6,7 @@ O PRoot é uma implementação de `chroot`, `mount --bind` e `binfmt_misc` que f
 
 Os pacotes oficiais podem ser baixados do repositório Termux:
 
-*   **Repositório Principal:** [Termux PRoot](https://packages-cf.termux.dev/apt/termux-main/pool/main/p/proot/)
+*   **Repositório Principal:** [PRoot](https://packages-cf.termux.dev/apt/termux-main/pool/main/p/proot/)
 
 ## 📚 Dependências e Bibliotecas
 

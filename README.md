@@ -17,11 +17,12 @@ O repositório está organizado da seguinte forma:
 
 Para mais detalhes sobre cada componente, consulte os guias abaixo:
 
-| Componente | Descrição | Link |
-| :--- | :--- | :--- |
-| **Java JDKs** | Download e links oficiais para JDK 17 e 21. | [docs/jdks.md](docs/jdks.md) |
-| **PRoot & Libs** | Binários do PRoot e bibliotecas auxiliares (libtalloc, etc). | [docs/proot.md](docs/proot.md) |
-| **Ubuntu RootFS** | Informações sobre a imagem base do sistema. | [docs/rootfs-ubuntu.md](docs/rootfs-ubuntu.md) |
+| Componente | Descrição                                                               | Link |
+| :--- |:------------------------------------------------------------------------| :--- |
+| **Java JDKs** | Download e links oficiais para JDK 17 e 21.                             | [docs/jdks.md](docs/jdks.md) |
+| **PRoot & Libs** | Binários do PRoot e bibliotecas auxiliares (libtalloc, etc).            | [docs/proot.md](docs/proot.md) |
+| **Ubuntu RootFS** | Informações sobre a imagem base do sistema.                             | [docs/rootfs-ubuntu.md](docs/rootfs-ubuntu.md) |
+| **AAPT2 & Libs** | Binário do AAPT2 Nativo para o SDK do Android e bibliotecas auxiliares. | [docs/aapt2.md](docs/aapt2.md) |
 
 ## 🛠️ Como usar
 
