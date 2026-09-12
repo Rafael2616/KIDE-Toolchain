@@ -6,7 +6,7 @@ O AAPT2 divide o trabalho de empacotamento em duas etapas principais:
 1. **Compile**: Compila os arquivos de recursos individuais em arquivos intermediários no formato `.flat`.
 2. **Link**: Mescla todos os arquivos intermediários `.flat`, resolve as referências entre os recursos e empacota o resultado final.
 
-## 🛠️ AAPT2 Nativo
+## 🛠️ 4AAPT2 Nativo
 
 Os pacotes oficiais podem ser obtidos a partir do repositório Termux:
 
