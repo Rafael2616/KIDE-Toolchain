@@ -12,7 +12,7 @@ Você pode baixar os arquivos das versões nos links abaixo:
 
 📌 Veja todas as versões e ativos na [Página de Releases](https://github.com/Rafael2616/KIDE-Toolchain/releases).
 
-## 📖 Documentação
+## 📖 Documentação 
 
 Para mais detalhes sobre cada componente, consulte os guias abaixo:
 
